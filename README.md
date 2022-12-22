@@ -38,4 +38,4 @@ Twitter:
 基本機能を実装(2022/12/23)
 
 <br>
-##### ©2022 Syeichis
+#### ©2022 Syeichis
