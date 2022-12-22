@@ -1,10 +1,12 @@
 # cuckoo_clock(鳩時計) ver1.0
 
 毎時00分に時刻の回数分鳩が鳴きます。
+
 毎時30分には鳩が一回だけ鳴きます。
 
 ## 動作環境
 .NET Framework 4.7.2 以上推奨
+
 Windows11で動作確認済
 
 ## インストール
@@ -25,6 +27,7 @@ cuckoo_clock.exeを削除して下さい。
 
 ## 連絡先
 Twitter:@Syeichis
+
 https://twitter.com/
 
 ## 更新履歴
