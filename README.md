@@ -9,10 +9,10 @@ cuckoo_clock(鳩時計) ver1.0
 Windows11で動作確認済
 
 ・インストール
-ダウンロードしたzipを展開し、cuckoo_clock.exeを実行して下さい。
+cuckoo_clock.exeを実行して下さい。
 
 ・アンインストール
-cuckoo_clockフォルダごと削除して下さい。
+cuckoo_clock.exeを削除して下さい。
 
 ・免責事項
 当ソフトの利用またはそれに関係して発生したいかなる損害についてもソフト制作者は責任を負いません。
