@@ -28,7 +28,8 @@ cuckoo_clock.exeを削除して下さい。
 * icon-icons.com https://icon-icons.com/
 
 ## 連絡先
-Twitter:[@Syeichis]([http://qiita.com](https://twitter.com/Syeichis))
+Twitter:
+[@Syeichis](https://twitter.com/Syeichis "Syeichis Twitter")
 
 
 
