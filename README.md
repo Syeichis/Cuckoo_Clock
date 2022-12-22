@@ -29,11 +29,12 @@ cuckoo_clock.exeを削除して下さい。
 
 ## 連絡先
 Twitter:@Syeichis
+
 https://twitter.com/
 
 ## 更新履歴
 #### ver1.0
 基本機能を実装(2022/12/23)
 
-<br><br>
-###### ©2022 Syeichis
+<br>
+##### ©2022 Syeichis
